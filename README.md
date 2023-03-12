@@ -1,4 +1,10 @@
-### Hi there 👋
+Hello good people of the internet and beyond 👽 
+I am Valerie and I will soon be completing my bootcamp course at 4geeks soon 🤓
+During the time in the bootcamp I learn HTML, CSS, Javascript, BootStrap, React, Python, and Sql.
+I am currently working on Sims IRL which is a site of curated information based on the sims 4 using python, SQLAlchemy, and react 💻
+I am curring using free code camp to refine my skills in Javascript and front-end libraries and will be completing those certifications soon as well.
+👾 In my free time I enjoy playing games such as The Sims and Stardew Valley. ☕️ I love a big mup and a hot drink during any season 🍵 
+🐶 I have to wonderful -yet spoiled- dogs who love long walks and big dinners🐶
 
 <!--
 **Valerieclaire96/Valerieclaire96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

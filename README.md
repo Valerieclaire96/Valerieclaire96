@@ -1,7 +1,7 @@
 ## Hello good people of the internet and beyond 👽 
 ### Let me introduce myself 🎩
 <br>
-I am Valerie, jr. developer 💻- rookie chef 👩‍🍳- sr. binge watcher🛋️
+I am Valerie, developer 💻- rookie chef 👩‍🍳- binge watcher🛋️
 <br>
 <br>
 Some of my current projects are Sims IRL and Donut Shoppe 🍩

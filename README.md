@@ -4,20 +4,18 @@
 I am Valerie, developer 💻- rookie chef 👩‍🍳- binge watcher🛋️
 <br>
 <br>
-Some of my current projects are Sims IRL and Donut Shoppe 🍩
+Some of my current projects are Order's Ahoy and Goober Games 🍩
 <br>
-💚Sims IRL is a site of curated products based on The Sims 4
+Orders Ahoy is a food ordering website made with PHP and MySQL
 <br>
-Donut Shoppe which is an app used for preorder handling for a fictional bakery 🥯
+Goober Games is a site that has quizzes and small games made with React, JSON, Bootstrap, and CSS.
 <br>
-They are both being built using python, SQLAlchemy, Flask, Fetch, React, and CSS 
-<br>
-🤓 I am also using free code camp to refine my skills in restponsive web design and front-end libraries 📚
+🤓 I am also using Udemy to grow my skills in PHP, Angular, Typescript, and the MERN stack 📚
 <br>
 📅 My 2023 coding goals are to learn typescript, Node.js, React Native, and Java ☕ 
 <br>
 <br>
-👾 In my free time I enjoy playing games such as The Sims and Stardew Valley while enjoying an oversized mug of green tea 🍵 
+👾 In my free time, I enjoy playing games such as The Sims and Stardew Valley while enjoying an oversized mug of green tea 🍵 
 <br>
 🐶 I have two wonderful -yet spoiled- dogs who love long walks and big dinners🐶
 <br>

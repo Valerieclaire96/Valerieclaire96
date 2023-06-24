@@ -21,7 +21,7 @@ Goober Games is a site that has quizzes and small games made with React, JSON, B
 <br>
 
 ---
-[![Valerie's GitHub stats](https://github-readme-stats.vercel.app/api?username=Valerieclaire96)](https://github.com/Valerieclaire96/github-readme-stats)
+
 
 <!--
 **Valerieclaire96/Valerieclaire96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

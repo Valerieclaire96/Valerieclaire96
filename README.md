@@ -6,7 +6,7 @@ I am Valerie, developer 💻- rookie chef 👩‍🍳- binge watcher🛋️
 <br>
 Some of my current projects are Order's Ahoy and Goober Games 🍩
 <br>
-Orders Ahoy is a food ordering website made with PHP and MySQL
+Food Order is a food ordering website made with PHP and MySQL
 <br>
 Goober Games is a site that has quizzes and small games made with React, JSON, Bootstrap, and CSS.
 <br>
